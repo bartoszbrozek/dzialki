@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dzs_dzialki_wgs84" id="dzs_dzialki_wgs84">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="id" type="string"></SimpleField>
+	<SimpleField name="region" type="string"></SimpleField>
+	<SimpleField name="commune" type="string"></SimpleField>
+	<SimpleField name="county" type="string"></SimpleField>
+	<SimpleField name="voivodeship" type="string"></SimpleField>
+	<SimpleField name="area_m2" type="float"></SimpleField>
+	<SimpleField name="perimeter_m" type="float"></SimpleField>
+</Schema>
+<Folder><name>dzs_dzialki_wgs84</name>
+  <Placemark id="dzs_dzialki_wgs84.1">
+	<name>2834/8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#dzs_dzialki_wgs84">
+		<SimpleData name="id">120906_2.0003.2834/8</SimpleData>
+		<SimpleData name="region">Siepraw</SimpleData>
+		<SimpleData name="commune">Siepraw</SimpleData>
+		<SimpleData name="county">powiat myślenicki</SimpleData>
+		<SimpleData name="voivodeship">małopolskie</SimpleData>
+		<SimpleData name="area_m2">832.4</SimpleData>
+		<SimpleData name="perimeter_m">118.58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>19.9691600628644,49.914667126674 19.9692030855727,49.9148698184933 19.9689904365852,49.9148837531349 19.9686966305912,49.9149030798894 19.9686725114855,49.9148000023038 19.9686536118989,49.9147002979984 19.9689588499825,49.9146802637633 19.9691600628644,49.914667126674</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="dzs_dzialki_wgs84.2">
+	<name>2834/9</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#dzs_dzialki_wgs84">
+		<SimpleData name="id">120906_2.0003.2834/9</SimpleData>
+		<SimpleData name="region">Siepraw</SimpleData>
+		<SimpleData name="commune">Siepraw</SimpleData>
+		<SimpleData name="county">powiat myślenicki</SimpleData>
+		<SimpleData name="voivodeship">małopolskie</SimpleData>
+		<SimpleData name="area_m2">775.8</SimpleData>
+		<SimpleData name="perimeter_m">112.76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>19.9693376462929,49.9148610339395 19.9692030855727,49.9148698184933 19.9691600628644,49.914667126674 19.969605995868,49.9146379111798 19.9696391935057,49.914654840483 19.9696533110963,49.9147242006859 19.9696767693975,49.9148387813475 19.9693376462929,49.9148610339395</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="dzs_dzialki_wgs84.3">
+	<name>2834/11</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#dzs_dzialki_wgs84">
+		<SimpleData name="id">120906_2.0003.2834/11</SimpleData>
+		<SimpleData name="region">Siepraw</SimpleData>
+		<SimpleData name="commune">Siepraw</SimpleData>
+		<SimpleData name="county">powiat myślenicki</SimpleData>
+		<SimpleData name="voivodeship">małopolskie</SimpleData>
+		<SimpleData name="area_m2">248.6</SimpleData>
+		<SimpleData name="perimeter_m">113.49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>19.9691600628644,49.914667126674 19.9689588499825,49.9146802637633 19.9689506122702,49.9146355925399 19.9693004711399,49.9146126272679 19.9695970614639,49.914593233813 19.9696222851478,49.9145726875103 19.9696391935057,49.914654840483 19.969605995868,49.9146379111798 19.9691600628644,49.914667126674</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

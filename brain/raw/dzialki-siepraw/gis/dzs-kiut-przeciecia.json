@@ -1,0 +1,137 @@
+{
+ "przewod_wodociagowy": {
+  "2834/8": {
+   "inside_m": 20.5,
+   "within_3m_of_parcel": true
+  },
+  "2834/9": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/11": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "_any_in_bbox": true
+ },
+ "przewod_kanalizacyjny": {
+  "2834/8": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/9": {
+   "inside_m": 19.8,
+   "within_3m_of_parcel": true
+  },
+  "2834/11": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "_any_in_bbox": true
+ },
+ "przewod_gazowy": {
+  "2834/8": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/9": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/11": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "_any_in_bbox": true
+ },
+ "przewod_elektroenergetyczny": {
+  "2834/8": {
+   "inside_m": 65.5,
+   "within_3m_of_parcel": true
+  },
+  "2834/9": {
+   "inside_m": 41.0,
+   "within_3m_of_parcel": true
+  },
+  "2834/11": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": true
+  },
+  "_any_in_bbox": true
+ },
+ "przewod_telekomunikacyjny": {
+  "2834/8": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/9": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/11": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "_any_in_bbox": false
+ },
+ "przewod_cieplowniczy": {
+  "2834/8": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/9": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/11": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "_any_in_bbox": false
+ },
+ "przewod_specjalny": {
+  "2834/8": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/9": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/11": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "_any_in_bbox": false
+ },
+ "przewod_niezidentyfikowany": {
+  "2834/8": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/9": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "2834/11": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": false
+  },
+  "_any_in_bbox": false
+ },
+ "przewod_urzadzenia": {
+  "2834/8": {
+   "inside_m": 1.2,
+   "within_3m_of_parcel": true
+  },
+  "2834/9": {
+   "inside_m": 18.2,
+   "within_3m_of_parcel": true
+  },
+  "2834/11": {
+   "inside_m": 0.0,
+   "within_3m_of_parcel": true
+  },
+  "_any_in_bbox": true
+ }
+}

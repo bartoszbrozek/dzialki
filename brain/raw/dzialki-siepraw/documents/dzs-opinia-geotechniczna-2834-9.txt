@@ -1,0 +1,779 @@
+Inwestor:              Z57 Real Estate Sp. z o.o.
+                       ul. Zawiła 57
+                       30-390 Kraków
+
+Wykonawca: Geoprofil, Usługi Geologiczne i Inżynierskie
+           Paweł Różański
+           ul. Sodowa 13/1, 30-376 Kraków
+           Biuro: ul. Zawiła 57, 30-390 Kraków
+           tel. 691-669-824, www.geoprofil.com
+
+
+
+
+                                     OPINIA GEOTECHNICZNA
+
+     dotycząca rozpoznania warunków gruntowo-wodnych w rejonie projektowanej
+  budowy budynku mieszkalnego jednorodzinnego wraz z infrastrukturą techniczną,
+    zagospodarowaniem terenu na działce nr 2834/9 obr. 0003 Siepraw w ramach
+                                       inwestycji „Ogrody Siepraw”- etap I.
+
+                                                                  Miejscowość: Siepraw
+                                                                  Gmina: Siepraw
+                                                                  Powiat: myślenicki
+                                                                  Województwo: małopolskie
+
+
+Opracował:
+
+
+
+
+ ......................................
+mgr inż. Paweł Różański
+nr upr. geol. MŚ VII-1352
+
+
+
+
+..........................................
+  mgr inż. Justyna Sumera
+
+
+
+                                               Kraków, maj 2022r.
+                  Spis treści
+
+
+Informacje ogólne .................................................................................................................... 3
+1. Wstęp .................................................................................................................................. 4
+2. Położenie i morfologia ......................................................................................................... 5
+3. Wykonane prace geologiczne ............................................................................................. 5
+4. Rozpoznanie budowy geologicznej i warunków hydrogeologicznych ................................ 5
+             4.1. Warunki geotechniczne i własności fizyczno-mechaniczne gruntów ................. 5
+             4.2. Warunki hydrogeologiczne ................................................................................. 8
+5. Wnioski i uwagi końcowe. ................................................................................................... 8
+
+
+                  Załączniki
+
+                  1. Mapa lokalizacyjna w skali 1 : 10 000                                                      zał. 1
+                  2. Mapa dokumentacyjna w skali 1:500                                                          zał. 2
+                  3. Karty dokumentacyjne otworów badawczych                                                    zał. 3.1-3.3
+                  4. Przekroje geotechniczne                                                                    zał. 4.1-4.3
+                  5. Objaśnienia do kart i przekrojów                                                           zał. 5
+     Informacje ogólne
+
+
+1. Rodzaj opracowania        Opinia geotechniczna.
+
+
+2. Zakres wykonanych robót   Wiercenia badawcze, analizy inżynierskie, badania
+                             terenowe.
+
+
+3. Zakres opracowania        Określenie budowy geologicznej terenu badań,
+                             warunków    hydrogeologicznych    oraz   parametrów
+                             wytrzymałościowych gruntu na podstawie wyników
+                             wierceń badawczych oraz badań terenowych.
+
+
+4. Inwestor                  Z57 Real Estate Sp. z o.o.
+                             ul. Zawiła 57
+                             30-390 Kraków
+
+
+
+
+5. Wykonawca prac            GEOPROFIL, Usługi Geologiczne i Inżynierskie
+                             Paweł Różański nr upr MŚ VII-1352,
+                             ul. Sodowa 13/1, 30-376 Kraków
+                             Biuro: ul. Zawiła 57, 30-390 Kraków
+                             tel. 691-669-824, www.geoprofil.com
+
+
+
+
+                                                                               3
+         1. Wstęp
+         Przedmiotowe opracowanie wykonano na zlecenie Inwestora. Celem prac było
+rozpoznanie warunków gruntowo-wodnych w rejonie projektowanej budowy budynku
+mieszkalnego         jednorodzinnego       wraz       z     infrastrukturą       techniczną,
+zagospodarowaniem terenu na działce nr 2834/9 obr. 0003 Siepraw w ramach
+inwestycji „Ogrody Siepraw”- etap I.
+         Zakres wykonanych prac, w tym lokalizacja i głębokość otworów, zostały
+określone       przez     Zleceniodawcę.    Zlecono       wykonanie     trzech     otworów
+rozpoznawczych. Opracowując niniejszą opinię uwzględniono wyniki wierceń
+otworów badawczych oraz obserwacje terenowe. Prace terenowe wykonano
+w kwietniu 2022r.
+         Rozpoznane w niniejszym opracowaniu warunki gruntowe będą podstawą do
+zaprojektowania rozwiązań inżynierskich dla budowy budynku mieszkalnego
+jednorodzinnego lub budynku mieszkalnego w zabudowie bliźniaczej.
+         Projektuje się budynek niepodpiwniczony parterowy z poddaszem użytkowym
+lub dwukondygnacyjny bez poddasza użytkowego. Zgodnie z informacją od
+Zleceniodawcy zakłada się posadowienie budynku na głębokości około 1,2-2,0m
+p.p.t.
+         Ostateczna koncepcja projektowa oraz rozwiązania konstrukcyjne określone
+zostaną po rozpoznaniu się z niniejszym opracowaniem.
+         W opinii uwzględniono wytyczne zawarte w rozporządzeniu Ministra Transportu,
+Budownictwa i Gospodarki Morskiej z dnia 25 kwietnia 2012r. w sprawie ustalenia
+geotechnicznych         warunków   posadowienia   obiektów      budowlanych        (Dz.   U.
+z 2012r. poz. 463). Zgodnie z w/w rozporządzeniem na omawianym terenie
+występują proste warunki gruntowe i proponuje się przyjęcie II kategorii
+geotechnicznej. Ostatecznie kategoria geotechniczna zostanie określona przez
+Projektanta.
+
+
+
+
+                                                                                           4
+       2. Położenie i morfologia
+
+        Obszar objęty niniejszym opracowaniem znajduje się w miejscowości
+Siepraw, gmina Siepraw, powiat myślenicki na działce nr 2834/9 obr. 0003 Siepraw.
+Ogólna lokalizacja terenu została przedstawiona na załączniku nr 1.
+
+       3. Wykonane prace geologiczne
+
+       Dla rozpoznania budowy geologicznej wykonano trzy otwory badawcze do
+głębokości 4,5m p.p.t. Łącznie wykonano 13,5mb wierceń. W trakcie wiercenia
+otworów badano na bieżąco próbki gruntu opisując je makroskopowo.
+       Otwory badawcze wykonano mechanicznie z zastosowaniem wiertnicy LWP-
+16S – świdrem spiralnym,  =100 mm, bez użycia płuczki. Lokalizację otworów
+badawczych przedstawiono na mapie dokumentacyjnej (zał. 2).
+       Rzędne posadowienia otworów wiertniczych podano z mapy dokumentacyjnej
+dostarczonej przez Zleceniodawcę.
+        Wyniki wierceń zostały przedstawione na kartach dokumentacyjnych otworów
+badawczych stanowiących załączniki 3.1-3.3.
+        Otwory zlikwidowano bezpośrednio po wykonaniu. Otwory zlikwidowano
+urobkiem, ubijając warstwowo, zachowując następstwo litologiczne i stratygraficzne
+przewierconych warstw.
+
+       4.   Rozpoznanie           budowy      geologicznej        i    warunków
+hydrogeologicznych
+
+       4.1. Warunki geotechniczne i własności fizyczno-mechaniczne gruntów
+
+        Klasyfikację i charakterystykę gruntów podłoża przeprowadzono na podstawie
+prac    polowych.   W   obrębie   gruntów   rodzimych   wydzielono,   trzy   warstwy
+geotechniczne. Kryteriami podziału były rodzaje gruntów, ich geneza oraz
+konsystencja. Zestawienie parametrów charakterystycznych wydzielonych warstw
+geotechnicznych przedstawiono w tabeli poniżej. Przestrzenny układ warstw
+geotechnicznych ilustrują przekroje geotechniczne przedstawione na załącznikach
+4.1-4.3.
+        W rezultacie przeprowadzonej analizy uzyskanych wyników wydzielono
+następujące warstwy geotechniczne:
+
+
+                                                                                   5
+     Grunty rodzime
+
+     Warstwa I - grunty spoiste wykształcone jako gliny pylaste niekiedy
+przewarstwione pyłem, barwy brązowo szarej, szaro brązowej małowilgotne w stanie
+twardoplastycznym, IL=0,15. Nawiercone w części stropowej wszystkich otworów od
+głębokości 0,2m p.p.t tworząc warstwy o miąższości 1,3m.
+     Warstwa II - grunty spoiste wykształcone jako gliny zwięzłe oraz gliny pylaste
+zwięzłe przewarstwione lub na pograniczu iłu, grunty te występują z domieszką łupka
+niekiedy są przewarstwione rumoszem piaskowca, barwy brązowo popielatej, ciemno
+brązowo popielatej, małowilgotne w stanie twardoplastycznym IL=0,15. Nawiercone
+we wszystkich otworach od głębokości 1,5-1,6m p.p.t tworząc warstwy o miąższości
+0,8-1,5m.
+     Warstwa III - grunty spoiste wykształcone jako rumosz gliniasty łupka niekiedy
+przewarstwiony rumoszem piaskowca, barwy ciemno popielatej, małowilgotne
+gruntom tym przypisano parametry iłów w stanie twardoplastycznym, IL=0,15.
+Rozpoznane w spągu wszystkich otworów od głębokości 2,5-3,0m p.p.t warstwy tej
+nie przewiercono.
+     Parametry geotechniczne warstw zostały podane w zbiorczym zestawieniu
+poniżej.
+
+
+
+
+                                                                                  6
+                                                                                                                                                     Tab. 1
+                                                    Zestawienie parametrów geotechnicznych
+
+                                                                                               Wszystkie podane parametry fizyczno-mechaniczne rozpoznanych
+           Wartość charakterystyczna   X(n)0                                             gruntów są wartościami charakterystycznymi, X(n)
+                                                                                                                                    obliczonymi metodą C wg
+                                                                                                                    PN-81/B-03020
+
+                                          Stan gruntu
+                                    Stopień    Stopień                                                       Moduł        Moduł
+Warstwa       Symbol gruntu wg.                          Wilgotność   Gęstość                 Kąt tarcia   ściśliwości                 Symbol       Zawartość
+                                   zagęszcze plastycz                           Spójność                                 odkształ-
+geotech-    PN_EN_ISO_14688_1_2                          naturalna    objęto-                 wewnętrz-                              konsolidacj   części organ.
+                                      nia       ności                              Cu                          Mo         cenia
+ niczna             006.                                     Wn       ściowa                  negou                                  i gruntu         Iom
+                                       ID         IL                                                                       Eo *
+                                                             %         t/m3       kPa           stop.         kPa          kPa                          %
+
+    I             G G            -       0,15 C       20 C      2,10 C      19C            16 C       32 900 C     23 000 C        C               -
+
+                Gz/I+KRpc,
+   II                                  -       0,15 C       22 C      2,00 C      19 C           16 C       32 900 C     23 000 C        C               -
+               Gz//I+KRpc+KRł
+
+   III        KRgł, KRgł//KRpc         -       0,15 C       27 C      2,00 C      51 C           12 C       27 200 C     15 300 C        D               -
+
+
+
+
+                                                                                                                                                             7
+   Przedstawione wartości parametrów są wartościami charakterystycznymi
+i przy dalszych obliczeniach należy stosować współczynnik materiałowy m
+równy 0,9 lub 1,1 przyjmując wartości mniej korzystne.
+
+     4.2. Warunki hydrogeologiczne
+
+      W trakcie wiercenia, we wszystkich otworach na głębokości 3,3-3,7m p.p.t
+stwierdzono występowanie sączeń wody z przestrzeni gruntowej. W otworze 13
+sączenia były intensywne ustabilizowały się na głębokości 3,4m p.p.t. Są to wody
+związane z infiltracją wód opadowo-roztopowych w głąb przestrzeni gruntowej i ich
+krążeniem na granicach warstw.
+      Należy pamiętać, że głębokość występowania i intensywność wypływów wód
+zależna jest od warunków atmosferycznych, wielkości, długotrwałości i intensywności
+opadów i może ulegać znacznym wahaniom.
+      Badania terenowe zostały przeprowadzone w okresie wiosennym, dlatego
+warunki hydrogeologiczne w trakcie prowadzonych wierceń można przyjąć za
+niekorzystne.
+
+     5. Wnioski i uwagi końcowe.
+1. Warunki gruntowo–wodne w rejonie projektowanej inwestycji rozpoznano
+   punktowo.
+2. W stropie badanego podłoża, nawiercono gliny pylaste często przewarstwione
+   pyłem w stanie twardoplastycznym. Grunty te przechodzą w gliny zwięzłe i gliny
+   pylaste zwięzłe przewarstwione iłem z domieszką rumoszu łupka niekiedy
+   piaskowca w stanie twardoplastycznym. W spągu otworów nawiercono rumosz
+   gliniasty łupka w stanie twardoplastycznym.
+3. W trakcie wiercenia, we wszystkich otworach na głębokości 3,3-3,7m p.p.t
+   stwierdzono występowanie sączeń wody z przestrzeni gruntowej. W otworze 13
+   sączenia były intensywne ustabilizowały się na głębokości 3,4m p.p.t. Są to wody
+   związane z infiltracją wód opadowo-roztopowych w głąb przestrzeni gruntowej
+   i ich krążeniem na granicach warstw.
+4. Na omawianym terenie występują proste warunki gruntowe, i proponuje się
+   przyjęcie II kategorii geotechnicznej. Ostatecznie kategoria geotechniczna
+   zostanie określona przez Projektanta.
+5. Rozpoznane grunty mają dobre parametry geotechniczne.
+
+                                                                                  8
+6. Grunty rodzime warstwy I należy traktować jako tiksotropowe (wrażliwe na
+   obciążenia dynamiczne) oraz wrażliwe na wszelkie zawilgocenia, co może
+   skutkować nagłym pogorszeniem parametrów geotechnicznych.
+7. Grunty warstw II i III należą do gruntów wysadzinowych, grunty te może
+   charakteryzować wysoki współczynnik pęcznienia.
+8. Zaleca się posadowienie w obrębie jednej warstwy geotechnicznej. Biorąc pod
+   uwagę rozpoznane warunki gruntowo wodne zaleca się posadowienie budynku
+   na płycie fundamentowej. Ostateczne decyzje o sposobie i głębokości
+   posadowienia, ewentualnym wzmocnieniu/wymianie oraz zabezpieczeniu podłoża
+   powinien podjąć Projektant/Konstruktor.
+9. Przed przystąpieniem do fundamentowania należy potwierdzić parametry gruntów
+   w dnie wykopu.
+10. W przypadku, ewentualnego wystąpienia w poziomie posadowienia gruntów
+   słabonośnych, po konsultacji z Projektantem/Konstruktorem grunty te należy
+   wymienić lub wzmocnić. Ostateczne decyzje dotyczące wymiany/wykorzystania
+   lub wzmocnienia powinien podjąć Projektant/Konstruktor.
+11. W związku z występowaniem gruntów tiksotropowych które łatwo ulegają
+   uplastycznieniu pod wpływem wilgoci oraz charakterem terenu należy bardzo
+   starannie   zaprojektować   odwodnienie     przedmiotowej    działki.   Zaleca    się
+   zastosowanie       odpowiedniego     systemu    drenaży      podziemnych         oraz
+   powierzchniowych.
+12. Wszelkie wody opadowo-dachowe oraz z powierzchni utwardzonych należy
+   odprowadzić poza teren inwestycji, najlepiej, jeśli istnieje do kanalizacji
+   deszczowej lub zbiornika szczelnego.
+13. Należy zwrócić szczególną uwagę na szczelność instalacji przyłączy sieci wodno-
+   kanalizacyjnej.
+14. Nie należy wykonywać urządzeń, które będą nawadniać podłoże gruntowe,
+   w tym wszelkiego rodzaju przydomowych oczyszczalni czy studni chłonnych.
+15. Wszelkie prace ziemne należy prowadzić etapami, pod nadzorem geologa
+   z odpowiednimi uprawnieniami.
+16. Wykopy           należy      wykonywać         w           okresie        suchym.
+   W    przypadku      wystąpienia    opadów   atmosferycznych,      wykopy    należy
+   zabezpieczyć przed gromadzeniem się wody w wykopie, np. folią. Planując
+   głębsze wykopy, ściany wykopu należy zabezpieczyć przed obrywaniem.
+                                                                                       9
+   W pobliżu    istniejącego   uzbrojenia,   wykopy   należy   wykonywać   ręcznie
+   w obecności przedstawicieli użytkowników danego uzbrojenia. Wyklucza się
+   prowadzenie prac ziemnych w czasie intensywnych opadów atmosferycznych,
+   a po ich ustaniu należy odczekać z ich podjęciem do czasu przesuszenia gruntu.
+17. Należy do minimum ograniczyć użycie ciężkiego sprzętu budowlanego.
+   Ewentualne dogęszczanie gruntów zaleca się prowadzić metodą bez wibracji.
+18. Planowana inwestycja nie pogorszy stanu naturalnego środowiska.
+19. Strefa przemarzanie gruntów w rejonie projektowanego budynku wynosi około
+   1,0m p.p.t
+
+
+
+
+                                                                                10
+  obszar
+dokumentowany
+
+
+
+
+                                OPINIA GEOTECHNICZNA
+            dotycząca rozpoznania warunków gruntowo-wodnych w rejonie projektowanej
+          budowy budynku mieszkalnego jednorodzinnego wraz z infrastrukturą techniczną,
+                zagospodarowaniem terenu na działce nr 2834/9 obr. 0003 Siepraw
+                           w ramach inwestycji „Ogrody Siepraw”- etap I.
+
+                Mapa lokalizacyjna                            Skala: 1 : 10 000
+
+          Data:                   Opracował:
+                                                                         Nr zał. 1
+          maj 2022r.              mgr inż Paweł Różański
+     12
+
+
+
+13
+          14    Objaśnienia:                                               OPINIA GEOTECHNICZNA
+                                                       dotycząca rozpoznania warunków gruntowo-wodnych w rejonie projektowanej
+               12, 13, 14                            budowy budynku mieszkalnego jednorodzinnego wraz z infrastrukturą techniczną,
+                   otwory geotechniczne                    zagospodarowaniem terenu na działce nr 2834/9 obr. 0003 Siepraw
+                                                                      w ramach inwestycji „Ogrody Siepraw”- etap I.
+                   linia przekroju geotechnicznego
+                                                        Mapa dokumentacyjna                                Skala: 1 : 500
+
+                                                     Data:                   Opracował:
+                                                                                                                    Nr zał. 2
+                                                     maj 2022r.              mgr inż Paweł Różański
+Geoprofil, Usługi Geologiczne i Inżynierskie                                                                     KARTA OTWORU                                                                         Zał.Nr: 3.1
+                                                                                                                GEOTECHNICZNEGO
+                          Paweł Różański
+                                                                                                                            Siepraw 12                                                    Wiertnica: LWP-16S
+
+  Miejscowość: Siepraw                                                               Obiekt: budynek mieszklany                                       System wiercenia: mechaniczny
+  Gmina: Siepraw (gmina wiejska)                                                     Inwestor: Z57 Real Estate Sp. z o.o
+                                                                                                                                                      Rzędna: 315.80 m n.p.m.
+  Powiat: myślenicki                                                                 Wiercenie: Geoprofil, Usługi Geologiczne i Inżynierskie
+  Województwo: małopolskie                                                           Nadzór geologiczny: mgr inż. Paweł Różański                      Skala 1 : 50               Data wiercenia:
+
+
+
+                                                                                                                                                                                        Warstwa
+
+
+                                                                                                                                                                 Symbol gruntu
+                  Głębokość
+
+
+   Wiercenie                                Stratygrafia                Skala [m]            Przelot [m]                                                                                                  Wilgotność   Stan gruntu
+                  zwierciadła                                                       Profil                                Opis Litologiczny
+
+                 wody [m p.p.t]                                                                                                                                                       geotechniczna
+
+   1                  2                     3                           4           5        6                                     7                             8                       9                10           11
+                                                                                                           Gleba                                                 H
+                                                                                             0.20          Glina pylasta, szaro brązowa
+
+
+
+                                                                                                                                                                Gp                        I
+                                                                  1.0
+
+
+
+                                                                                             1.50          Glina pylasta zwięzła na pograniczu iłu
+                                                                                                           przewarstwiona rumoszem łupka, ciemno brązowo
+
+
+
+
+                                  CZWARTORZĘD
+                                                                                                           poipelata                                        Gpz/I//KRł                   II
+
+
+                                                     Czwarorzęd
+                                                                  2.0
+
+                                                                                             2.30          Rumosz gliniasty łupka, ciemno popielaty                                                      mw            tpl
+
+
+
+                                                                  3.0
+
+               3.30                                                                                                                                            KRgł                     III
+
+
+
+                                                                  4.0
+
+
+
+                                                                                             4.50
+
+
+
+
+   Rysunek wykonano programem "GeoStar" zgodnie z PN-B-04481:1988                                                                         Kartę opracował: mgr inż. P. Różański Data:V 2022r
+Geoprofil, Usługi Geologiczne i Inżynierskie                                                                     KARTA OTWORU                                                                          Zał.Nr: 3.2
+                                                                                                                GEOTECHNICZNEGO
+                          Paweł Różański
+                                                                                                                            Siepraw 13                                                     Wiertnica: LWP-16S
+
+  Miejscowość: Siepraw                                                               Obiekt: budynek mieszkalny                                        System wiercenia: mechaniczny
+  Gmina: Siepraw (gmina wiejska)                                                     Inwestor: Z57 Real Estate Sp. z o.o
+                                                                                                                                                       Rzędna: 314.70 m n.p.m.
+  Powiat: myślenicki                                                                 Wiercenie: Geoprofil, Usługi Geologiczne i Inżynierskie
+  Województwo: małopolskie                                                           Nadzór geologiczny: mgr inż. Paweł Różański                       Skala 1 : 50               Data wiercenia:
+
+
+
+                                                                                                                                                                                         Warstwa
+
+
+                                                                                                                                                                  Symbol gruntu
+                  Głębokość
+
+
+   Wiercenie                                Stratygrafia                Skala [m]            Przelot [m]                                                                                                   Wilgotność   Stan gruntu
+                  zwierciadła                                                       Profil                                Opis Litologiczny
+
+                 wody [m p.p.t]                                                                                                                                                        geotechniczna
+
+   1                  2                     3                           4           5        6                                    7                               8                       9                10           11
+                                                                                                           Gleba                                                  H
+                                                                                             0.20          Glina pylasta, brązowo rdzawa
+
+
+
+                                                                                                                                                                 Gp                        I
+                                                                  1.0
+
+
+
+                                                                                             1.50          Glina zwięzła przewarstwiona iłem z domieszką
+                                                                                                           rumoszu łupka i piaskowca, ciemno brązowo
+
+
+
+
+                                  CZWARTORZĘD
+                                                                                                           popielata
+
+
+                                                     Czwarorzęd
+                                                                  2.0
+                                                                                                                                                           Gz//I+KRł+KRpc                 II
+                                                                                                                                                                                                          mw            tpl
+
+
+
+                                                                  3.0
+                                                                                             3.00          Rumosz gliniasty łupka, ciemno popielato
+                                                                                                           brązowy
+                          3.40
+
+               3.70                                                                                                                                             KWgł                     III
+                                                                  4.0
+
+
+
+                                                                                             4.50
+
+
+
+
+   Rysunek wykonano programem "GeoStar" zgodnie z PN-B-04481:1988                                                                          Kartę opracował: mgr inż. P. Różański Data:V 2022r
+Geoprofil, Usługi Geologiczne i Inżynierskie                                                                     KARTA OTWORU                                                                            Zał.Nr: 3.3
+                                                                                                                GEOTECHNICZNEGO
+                          Paweł Różański
+                                                                                                                            Siepraw 14                                                       Wiertnica: LWP-16S
+
+  Miejscowość: Siepraw                                                               Obiekt: budynek mieszklany                                          System wiercenia: mechaniczny
+  Gmina: Siepraw (gmina wiejska)                                                     Inwestor: Z57 Real Estate Sp. z o.o
+                                                                                                                                                         Rzędna: 314.90 m n.p.m.
+  Powiat: myślenicki                                                                 Wiercenie: Geoprofil, Usługi Geologiczne i Inżynierskie
+  Województwo: małopolskie                                                           Nadzór geologiczny: mgr inż. Paweł Różański                         Skala 1 : 50               Data wiercenia:
+
+
+
+                                                                                                                                                                                           Warstwa
+
+
+                                                                                                                                                                    Symbol gruntu
+                  Głębokość
+
+
+   Wiercenie                                Stratygrafia                Skala [m]            Przelot [m]                                                                                                     Wilgotność   Stan gruntu
+                  zwierciadła                                                       Profil                                Opis Litologiczny
+
+                 wody [m p.p.t]                                                                                                                                                          geotechniczna
+
+   1                  2                     3                           4           5        6                                    7                                 8                       9                10           11
+                                                                                                           Gleba                                                    H
+                                                                                             0.20          Glina pylasta przewarstwiona pyłem, brązowo
+                                                                                                           szara
+
+
+                                                                                                                                                                  Gp//P                      I
+                                                                  1.0
+
+
+
+                                                                                             1.50          Glina pylasta zwięzła przewarstwiona iłem z
+                                                                                                           domieszką rumoszu łupka, brązowo popielata
+
+
+
+
+                                  CZWARTORZĘD
+                                                                                                                                                               Gpz//I+KRł
+
+                                                     Czwarorzęd
+                                                                  2.0                                                                                                                       II
+
+                                                                                                                                                                                                            mw            tpl
+                                                                                             2.50          Rumosz gliniasty łupka, ciemno popielaty
+
+
+                                                                  3.0
+
+
+                                                                                                                                                                  KRgł                     III
+               3.60
+
+
+                                                                  4.0
+
+
+
+                                                                                             4.50
+
+
+
+
+   Rysunek wykonano programem "GeoStar" zgodnie z PN-B-04481:1988                                                                         Kartę opracował: mgr inż. P. Różański Data:V 2022r
+                             Siepraw 12
+                                 315.80
+          m n.p.m.                 NE
+                                                                                                                                     Siepraw 13
+          316                           0.00                                                                                             314.70
+                                        0.20 H
+                                                                                                                                          SW
+          315              tpl                 Gp
+                                                                                                                                                0.00
+                                                                                                                                                0.20 H
+                                        1.50                                        I
+
+          314
+                           tpl                 Gpz/I//KRł                                                                          tpl                 Gp
+                                        2.30
+                                                                                              II                                                1.50
+ Skala
+          313
+    100
+1:
+     75              3.3
+                           tpl                 KRgł                                                                                tpl                 Gz//I+KRł+KRpc
+                                                                                        III
+          312
+                                                                                                                                                3.00
+
+
+
+          311                    Gł. 4.5                                                                                     3.7   tpl                 KWgł
+
+
+
+          310
+                                                                                                                                         Gł. 4.5
+
+
+
+
+                                                                                                   Geoprofil, Usługi Geologiczne i Inżynierskie                                   Zał.Nr
+                                                                                                        Biuro: ul. Zawiła 57, 30-390 Kraków                                        4.1
+                                                                                                                            Rozpoznanie warunków gruntowo wodnych w rejonie proj.
+                                                                                                                         budowy budynku mieszkalnego jednorodzinnego z infrastrukturą
+                                                                        OPINIA GEOTECHNICZNA                           i zagospodarowaniem tereny na dz. na działce nr 2834/9 obr. 0003
+                                                                                                                                                                                     Skala
+                                                                                                                           Przekrój geotechniczny
+                                                                          Data      Nazwisko                  Podpis
+                                                            Opracował     V 2022r   mgr inż. P. Różański
+                                                                                                                             przez otwory 12-13                                 1:
+                                                                                                                                                                                      100
+                                                                                                                                                                                       75
+                             Siepraw 12
+                                 315.80
+          m n.p.m.               NW                                                                                             Siepraw 14
+          316
+                                                                                                                                    314.90
+                                      0.00
+                                      0.20 H
+                                                                                                                                     SE
+          315              tpl               Gp                                                                                            0.00
+                                                                                                                                           0.20 H
+
+                                      1.50                                         I
+          314                                                                                                                 tpl                 Gp//P
+                           tpl               Gpz/I//KRł
+                                      2.30
+                                                                                                                                           1.50
+                                                                                   II
+ Skala
+          313
+    100                                                                                                                       tpl                 Gpz//I+KRł
+1:
+     75              3.3
+                           tpl               KRgł
+                                                                                                                                           2.50
+
+          312                                                                     III
+
+                                                                                                                              tpl                 KRgł
+                                                                                                                        3.6
+
+          311                    Gł. 4.5
+
+          310                                                                                                                       Gł. 4.5
+
+
+
+
+                                                                                           Geoprofil, Usługi Geologiczne i Inżynierskie                                      Zał.Nr
+                                                                                                   Biuro: ul. Zawiła 57, 30-390 Kraków                                        4.2
+                                                                                                                       Rozpoznanie warunków gruntowo wodnych w rejonie proj.
+                                                                                                                    budowy budynku mieszkalnego jednorodzinnego z infrastrukturą
+                                                                      OPINIA GEOTECHNICZNA                        i zagospodarowaniem tereny na dz. na działce nr 2834/9 obr. 0003
+                                                                                                                                                                                Skala
+                                                                                                                      Przekrój geotechniczny
+                                                                        Data      Nazwisko               Podpis
+                                                          Opracował     V 2022r   mgr inż. P. Różański
+                                                                                                                        przez otwory 12-14                                 1:
+                                                                                                                                                                                 100
+                                                                                                                                                                                  75
+          m n.p.m.                                                                                                                                                            Siepraw 14
+                             Siepraw 13
+                                                                                                                                                                                  314.90
+          316                    314.70
+                                   W                                                                                                                                                E
+          315                                                                                                                                                                              0.00
+                                      0.00                                                                                                                                                 0.20 H
+                                      0.20 H
+
+
+          314                                                                                                                                                               tpl                   Gp//P
+                           tpl               Gp                                                               I
+
+                                                                                                                                                                                           1.50
+                                      1.50
+ Skala
+          313
+    100                                                                                                                                                                     tpl                   Gpz//I+KR
+1:                                                                                                    II
+     75                    tpl               Gz//I+KRł+KRpc                                                                                                                                2.50
+
+          312
+                                      3.00
+
+                                                                                                                                                                            tpl                   KRgł
+                                                                                                                                                                      3.6
+
+          311        3.7   tpl               KWgł                                                            III
+
+
+
+          310                                                                                                                                                                     Gł. 4.5
+                                 Gł. 4.5
+
+
+
+
+                                                                                               Geoprofil, Usługi Geologiczne i Inżynierskie                                            Zał.Nr
+                                                                                                       Biuro: ul. Zawiła 57, 30-390 Kraków                                              4.3
+                                                                                                                                 Rozpoznanie warunków gruntowo wodnych w rejonie proj.
+                                                                                                                              budowy budynku mieszkalnego jednorodzinnego z infrastrukturą
+                                                                          OPINIA GEOTECHNICZNA                              i zagospodarowaniem tereny na dz. na działce nr 2834/9 obr. 0003
+                                                                                                                                                                                          Skala
+                                                                                                                                Przekrój geotechniczny
+                                                                            Data      Nazwisko                     Podpis
+                                                              Opracował     V 2022r   mgr inż. P. Różański
+                                                                                                                                  przez otwory 13-14                                 1:
+                                                                                                                                                                                           100
+                                                                                                                                                                                            75
+                           OBJAŒNIENIA SYMBOLI I ZNAKÓW                                                                          za³. 5
+                             U¯YTYCH NA PRZEKROJACH
+                                                                                          ZNAKI DODATKOWE DOTYCZ¥CE
+ Symbole geotechniczne gruntów                                                            OPISU GRUNTÓW
+    w/g normy PN-86/B-2480
+                                                                                          +   - domieszki
+GRUNTY NASYPOWE                                                                           //  - przewarstwienia (wk³adki)
+nB    - nasyp budowlany                                                                   /   - na pograniczu
+nN    - nasyp niebudowlany                                                                ( ) - w nawiasie okreœlenia uzupe³niaj¹ce
+                                                                                                    dotycz¹ce sk³adu nasypu, rodzaju
+GRUNTY ORGANICZNE RODZIME                                                                           gruntów organicznych, petrografi ska³.
+
+H       - grunt próchniczny    2%<Iom<5%
+                                                                                       4          - numer wiercenia
+                                                                                      527           rzêdna wiercenia (terenu)
+Nm      - namu³                5%<Iom<30%
+                                                                                                   OPRÓBOWANIE WIERCENIA
+T       - torf                 30%<Iom                                                    +      próbka o naturalnej strukturze (NNS)
+GRUNTY MINERALNE RODZIME
+                                                                                          +      próbka o naturalnej wilgotnoœci (NW)
+(NIESKALISTE)
+KW     - wietrzelina                                                                             OZNACZENIE WODY
+
+
+
+
+                                 drobnoziarniste grubo-
+KWg    - wietrzelina gliniasta
+                                                                                                 W WIERCENIU
+KR     - rumosz                                                                                     poziom wody gruntowej
+KRg    - rumosz gliniasty                                                                  6,4      (piezometryczny)
+KO     - otoczaki                                                                                   piezometryczny poziom wody -
+¯      - ¿wir                                                                       22,4            ustabilizowany, ustalony w czasie
+¯g     - ¿wir gliniasty                                                                             wiercenia i g³êbokoœæ
+Po     - pospó³ka
+
+
+
+                                    niespoiste ziarniste kamieniste
+                                                                                                    nawiercony poziom wody gruntowej
+Pog    - pospó³ka gliniasta                                                                         i g³êbokoœæ
+Pr     - piasek gruby                                                                               s¹czenia wody
+Ps     - piasek œredni                                                              1,5
+Pd     - piasek drobny                                                                          OZNACZENIA STANU GRUNTU
+Pp- piasek pylasty
+                                                                                              pzw    - pó³zwarty
+Pg     - piasek gliniasty                                                                     tpl    - twardoplastyczny
+p- py³ piaszczysty
+  p                                                                                           pl     - plastyczny
+
+
+
+
+                                                          drobnoziarniste spoiste
+p - py³                                                                                       mpl    - miêkkoplastyczny
+Gp     - glina piaszczysta                                                                    ln     - luŸny
+                                                                                              szg    - œredniozagêszczony
+Gpz    - glina piaszczysta zwiêz³a                                                            zg     - zagêszczony
+G      - glina
+Gz     - glina zwiêz³a                                                                           UTWORY CZWARTORZÊDU
+Gp- glina pylasta
+                                                                                                   - nasypy/gleba
+Gp- glina pylasta zwiêz³a
+    z
+Ip     -
+                                                                                                   - namu³y
+I        i³
+Ip - i³ pylasty
+                                                                                                   - grunty próchniczne
+
+GRUNTY SKALISTE                                                                                    - grunty spoiste
+J³      - i³o³upek
+£       -   ³upek                                                                                  - grunty niespoiste
+£i      -   ³upek ilasty
+P-c     -   piaskowiec
+                                                                                                    ska³a miêkka/ twarda
+
+
+III.    - nr warstwy geotechnicznej                                                                 p³aszczyzna poœlizgu
+        - granica warstw niepewna
+        - granica warstw
+        - linia uskoku
+

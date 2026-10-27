@@ -1,0 +1,12 @@
+# Ignore everything, then allow only brain/{raw,wiki}/dzialki-siepraw
+/*
+!/.gitignore
+!/brain/
+/brain/*
+!/brain/raw/
+!/brain/wiki/
+/brain/raw/*
+/brain/wiki/*
+!/brain/raw/dzialki-siepraw/
+!/brain/wiki/dzialki-siepraw/
+.DS_Store

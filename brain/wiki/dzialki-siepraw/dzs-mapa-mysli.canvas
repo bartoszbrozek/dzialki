@@ -1,0 +1,1368 @@
+{
+ "nodes": [
+  {
+   "id": "c326311fe17bfea2",
+   "type": "group",
+   "x": -1350,
+   "y": 1520,
+   "width": 400,
+   "height": 876,
+   "label": "Pytania otwarte",
+   "color": "3"
+  },
+  {
+   "id": "d77c6baa6a44ccf0",
+   "type": "group",
+   "x": -1350,
+   "y": 342,
+   "width": 400,
+   "height": 1058,
+   "label": "Ryzyka",
+   "color": "1"
+  },
+  {
+   "id": "26bdc0cf759bb9e1",
+   "type": "group",
+   "x": -1350,
+   "y": -888,
+   "width": 400,
+   "height": 1110,
+   "label": "Formalności i harmonogram",
+   "color": "5"
+  },
+  {
+   "id": "8b00e845c32d3c34",
+   "type": "group",
+   "x": -1350,
+   "y": -2396,
+   "width": 400,
+   "height": 1388,
+   "label": "Transakcja i pieniądze",
+   "color": "6"
+  },
+  {
+   "id": "fb166cb7cde488ef",
+   "type": "group",
+   "x": 950,
+   "y": 2065,
+   "width": 400,
+   "height": 1014,
+   "label": "Media i sieci",
+   "color": "2"
+  },
+  {
+   "id": "97d7a0b2799a92ef",
+   "type": "group",
+   "x": 950,
+   "y": 957,
+   "width": 400,
+   "height": 988,
+   "label": "Teren i grunt",
+   "color": "2"
+  },
+  {
+   "id": "59f3949759db418e",
+   "type": "group",
+   "x": 950,
+   "y": -603,
+   "width": 400,
+   "height": 1440,
+   "label": "Dom i garaż – pomysły",
+   "color": "3"
+  },
+  {
+   "id": "7d9a2815716ccc75",
+   "type": "group",
+   "x": 950,
+   "y": -2041,
+   "width": 400,
+   "height": 1318,
+   "label": "MPZP i zasady budowy",
+   "color": "5"
+  },
+  {
+   "id": "595d463e28734f8b",
+   "type": "group",
+   "x": 950,
+   "y": -3079,
+   "width": 400,
+   "height": 918,
+   "label": "Działki",
+   "color": "4"
+  },
+  {
+   "id": "63a9f0ea7bb98050",
+   "type": "text",
+   "x": -180,
+   "y": -80,
+   "width": 360,
+   "height": 160,
+   "text": "# Działki Siepraw\n3 działki, 1859 m², 431 699 zł brutto\nDom z garażem na 2834/9\n\n→ [[dzialki-siepraw]]",
+   "color": "6"
+  },
+  {
+   "id": "8b8cb0e13f95f75f",
+   "type": "text",
+   "x": 520,
+   "y": -2661,
+   "width": 300,
+   "height": 82,
+   "text": "## Działki\nobręb Siepraw, teren 3.22MN",
+   "color": "4"
+  },
+  {
+   "id": "87de66479aea0306",
+   "type": "text",
+   "x": 980,
+   "y": -3039,
+   "width": 340,
+   "height": 186,
+   "text": "**2834/9** – dom\n777 m², 191 142 zł\n34,2 × 22,7 m, front 20,6 m (E)\nspadek 12,9% na S\n\n→ [[dzs-dzialka-2834-9]]"
+  },
+  {
+   "id": "83c2d09a5dd1d1c5",
+   "type": "text",
+   "x": 980,
+   "y": -2813,
+   "width": 340,
+   "height": 186,
+   "text": "**2834/8** – ogród / rezerwa\n833 m², 179 303 zł\nspadek 16% na SW\nbrak dostępu do drogi\n\n→ [[dzs-dzialka-2834-8]]"
+  },
+  {
+   "id": "41012ddde9234032",
+   "type": "text",
+   "x": 980,
+   "y": -2587,
+   "width": 340,
+   "height": 186,
+   "text": "**2834/11** – dawna droga\n249 m², 61 254 zł\npas ok. 5 m, front 9,21 m\nosobna KW + hipoteka\n\n→ [[dzs-dzialka-2834-11]]"
+  },
+  {
+   "id": "4d536c20da21fcb6",
+   "type": "text",
+   "x": 980,
+   "y": -2361,
+   "width": 340,
+   "height": 160,
+   "text": "GIS i 3D\n49.914751, 19.969468\nKML, NMT 1 m (PL-KRON86-NH)\n\n→ [[dzs-dane-gis-i-3d]]"
+  },
+  {
+   "id": "c224c2549d83f491",
+   "type": "text",
+   "x": 520,
+   "y": -1449,
+   "width": 300,
+   "height": 134,
+   "text": "## MPZP i zasady budowy\nXIV/110/25, w mocy od 31.07.2025\n\n→ [[dzs-mpzp-teren-mn]]",
+   "color": "5"
+  },
+  {
+   "id": "a2b9dcfaddf5e759",
+   "type": "text",
+   "x": 980,
+   "y": -2001,
+   "width": 340,
+   "height": 160,
+   "text": "Dach domu 30°–45°\ndwu-/wielospadowy\npłaski tylko część ≤35 m²\n\n→ [[dzs-szybkie-odpowiedzi]]"
+  },
+  {
+   "id": "99585ce2b2b2f3e3",
+   "type": "text",
+   "x": 980,
+   "y": -1801,
+   "width": 340,
+   "height": 160,
+   "text": "Wysokość max 11,0 m (dach stromy), 4,5 m (część z dachem płaskim)\ngaraż 7,0 m (stromy) / 4,5 m (płaski)\nod średniej terenu\n\n→ [[dzs-mpzp-definicje]]"
+  },
+  {
+   "id": "c4bcc623d416896e",
+   "type": "text",
+   "x": 980,
+   "y": -1601,
+   "width": 340,
+   "height": 186,
+   "text": "Zabudowa max 40%\nPBC min 40%\nintensywność max 0,40\n(777 m² → 310,8 m²)\n\n→ [[dzs-mpzp-teren-mn]]"
+  },
+  {
+   "id": "d8495969b83b6553",
+   "type": "text",
+   "x": 980,
+   "y": -1375,
+   "width": 340,
+   "height": 186,
+   "text": "Od granicy 4 m / 3 m (WT §12)\nbrak linii zabudowy\ngaraż w granicy ≤6,5×3 m\n\n→ [[dzs-warunki-techniczne-odleglosci]]"
+  },
+  {
+   "id": "1f9faa64e9fef45a",
+   "type": "text",
+   "x": 980,
+   "y": -1149,
+   "width": 340,
+   "height": 186,
+   "text": "WT 2002 obowiązywały do 19.09.2026\nstare WT z oświadczeniem\ndo ok. 20.03.2028 (18 mies. od 20.09.2026, art. 102a Pb)\n\n→ [[dzs-warunki-techniczne-odleglosci]]"
+  },
+  {
+   "id": "14fe64e322322ede",
+   "type": "text",
+   "x": 980,
+   "y": -923,
+   "width": 340,
+   "height": 160,
+   "text": "Kolor dachu ciemniejszy od ścian\nmin. 1 miejsce postojowe\nbez zabudowy szeregowej i grupowej ([[dzs-mpzp-uchwala]] §26 ust. 2); bliźniak nie jest wykluczony\n\n→ [[dzs-mpzp-ustalenia-ogolne]]"
+  },
+  {
+   "id": "dd988cfd769c9f7f",
+   "type": "text",
+   "x": 520,
+   "y": 63,
+   "width": 300,
+   "height": 108,
+   "text": "## Dom i garaż – pomysły\n\n→ [[dzs-pomysly]]",
+   "color": "3"
+  },
+  {
+   "id": "dd313f5fec34ed87",
+   "type": "text",
+   "x": 980,
+   "y": -563,
+   "width": 340,
+   "height": 160,
+   "text": "Planer: dom 19,40 × 9,30 m\nparterowy, 6,0 m, dach 30°\ngaraż 6,60 × 7,60 m od E\n\n→ [[dzs-planer-dzialki-dom]]"
+  },
+  {
+   "id": "56281e7cc7acb582",
+   "type": "text",
+   "x": 980,
+   "y": -363,
+   "width": 340,
+   "height": 160,
+   "text": "Dom na N, ogród na S\nkalenica E–W\nduże okna i PV na S\n\n→ [[dzs-pomysly]]"
+  },
+  {
+   "id": "1740cb4110a7a315",
+   "type": "text",
+   "x": 980,
+   "y": -163,
+   "width": 340,
+   "height": 160,
+   "text": "Garaż i wjazd przy NE\nnajwyższy punkt ok. 317,0–317,2 m (PL-KRON86-NH)\nnajbliżej drogi i złącza\n\n→ [[dzs-pomysly]]"
+  },
+  {
+   "id": "39b47e0c088895a3",
+   "type": "text",
+   "x": 980,
+   "y": 37,
+   "width": 340,
+   "height": 134,
+   "text": "PV dach + grunt (do 100 kW)\npompa ciepła (brak gazu)\n\n→ [[dzs-pomysly]]"
+  },
+  {
+   "id": "177939dce40c9687",
+   "type": "text",
+   "x": 980,
+   "y": 211,
+   "width": 340,
+   "height": 160,
+   "text": "Szczelny zbiornik na deszczówkę\nretencja w SW 2834/8\nbez rozsączania\n\n→ [[dzs-pomysly]]"
+  },
+  {
+   "id": "3b70f4115b42e90c",
+   "type": "text",
+   "x": 980,
+   "y": 411,
+   "width": 340,
+   "height": 160,
+   "text": "Scalenie działek\n1859 m² (lub 1610 m²)\npo wykreśleniu hipoteki\n\n→ [[dzs-pomysly]]"
+  },
+  {
+   "id": "79682379542974c8",
+   "type": "text",
+   "x": 980,
+   "y": 611,
+   "width": 340,
+   "height": 190,
+   "text": "⚠️ Płaski dach garażu przy domu (~50 m²)\nlit. b: garaże – płaski dozwolony\nlit. a: część domu – płaski ≤35 m²\n→ garaż jako odrębny budynek (dylatacja)\nalbo stanowisko gminy\n\n→ [[dzs-planer-dzialki-dom]]",
+   "color": "3"
+  },
+  {
+   "id": "09b98ab4ed4f49f0",
+   "type": "text",
+   "x": 520,
+   "y": 1397,
+   "width": 300,
+   "height": 108,
+   "text": "## Teren i grunt\n\n→ [[dzs-warunki-gruntowe]]",
+   "color": "2"
+  },
+  {
+   "id": "a167611ee8893c60",
+   "type": "text",
+   "x": 980,
+   "y": 997,
+   "width": 340,
+   "height": 160,
+   "text": "2834/9: 313,71–317,02 m\nΔh 3,3 m N→S, 12,9%\n(PL-KRON86-NH)\n\n→ [[dzs-dane-gis-i-3d]]"
+  },
+  {
+   "id": "4402c7e3e34171de",
+   "type": "text",
+   "x": 980,
+   "y": 1197,
+   "width": 340,
+   "height": 160,
+   "text": "Płyta fundamentowa\nposadowienie 1,2–2,0 m\nprzemarzanie 1,0 m\n\n→ [[dzs-opinia-geotechniczna]]"
+  },
+  {
+   "id": "7c4dce74ca30a305",
+   "type": "text",
+   "x": 980,
+   "y": 1397,
+   "width": 340,
+   "height": 160,
+   "text": "Woda 3,3–3,7 m p.p.t.\nopinia dla domu bez piwnicy\nodwodnienie: należy starannie zaprojektować\ndrenaż zalecany\n\n→ [[dzs-warunki-gruntowe]]"
+  },
+  {
+   "id": "217c670780ae1d0e",
+   "type": "text",
+   "x": 980,
+   "y": 1597,
+   "width": 340,
+   "height": 134,
+   "text": "Opinia odradza studnie chłonne i POŚ (wniosek 14)\nMPZP POŚ dopuszcza (§53 ust. 3 pkt 4)\n\n→ [[dzs-opinia-geotechniczna]]"
+  },
+  {
+   "id": "53442b748dab1177",
+   "type": "text",
+   "x": 980,
+   "y": 1771,
+   "width": 340,
+   "height": 134,
+   "text": "Opinia 2022, zlecił Z57\n3 otwory × 4,5 m, tylko 2834/9\n\n→ [[dzs-opinia-geotechniczna]]"
+  },
+  {
+   "id": "62933a2951ef01f4",
+   "type": "text",
+   "x": 520,
+   "y": 2518,
+   "width": 300,
+   "height": 108,
+   "text": "## Media i sieci\n\n→ [[dzs-uzbrojenie-terenu]]",
+   "color": "2"
+  },
+  {
+   "id": "12c5351be5c582f5",
+   "type": "text",
+   "x": 980,
+   "y": 2105,
+   "width": 340,
+   "height": 160,
+   "text": "Linia nN wzdłuż N granicy (ok. 71 m)\ni przy W granicy 2834/8\nrazem ok. 106 m w działkach\nstrefa nieznana\n\n→ [[dzs-uzbrojenie-terenu]]"
+  },
+  {
+   "id": "596ff2609d8723c3",
+   "type": "text",
+   "x": 980,
+   "y": 2305,
+   "width": 340,
+   "height": 134,
+   "text": "Wodociąg ukośnie przez 2834/8\nok. 20,5 m\n\n→ [[dzs-uzbrojenie-terenu]]"
+  },
+  {
+   "id": "9fd942bc7925e383",
+   "type": "text",
+   "x": 980,
+   "y": 2479,
+   "width": 340,
+   "height": 160,
+   "text": "Szambo (prawdopodobnie sąsiada z 2834/6, wniosek z KIUT) na 2834/9\nok. 2,5 × 2,5 m, 3–4 m od E\nbez służebności\n\n→ [[dzs-uzbrojenie-terenu]]"
+  },
+  {
+   "id": "b306474490846569",
+   "type": "text",
+   "x": 980,
+   "y": 2679,
+   "width": 340,
+   "height": 160,
+   "text": "Kanalizacja i wodociąg\nzobowiązania co do terminowej budowy w akcie\nkto buduje – do ustalenia (wniosek: najpewniej Z57)\nkto przejmie sieć – do ustalenia\n\n→ [[dzs-dostawcy-mediow]]"
+  },
+  {
+   "id": "b08dc2ff6ef81091",
+   "type": "text",
+   "x": 980,
+   "y": 2879,
+   "width": 340,
+   "height": 160,
+   "text": "Gaz: brak na działkach\ngazociąg w.c. ok. 17 m (rysunek MPZP)\ngazociąg ok. 47 m (KIUT, ciśnienie nieznane)\nsprzeczne źródła\n\n→ [[dzs-szybkie-odpowiedzi]]"
+  },
+  {
+   "id": "4738019ef434f240",
+   "type": "text",
+   "x": -820,
+   "y": -1756,
+   "width": 300,
+   "height": 108,
+   "text": "## Transakcja i pieniądze\n\n→ [[dzs-transakcja]]",
+   "color": "6"
+  },
+  {
+   "id": "47871ab095af56be",
+   "type": "text",
+   "x": -1320,
+   "y": -2356,
+   "width": 340,
+   "height": 160,
+   "text": "350 975 zł netto + VAT 80 724,25\n= 431 699,25 zł brutto\n175 / 200 zł/m² netto\n\n→ [[dzs-oferta-i-mail-z57]]"
+  },
+  {
+   "id": "dab23f970c086d2e",
+   "type": "text",
+   "x": -1320,
+   "y": -2156,
+   "width": 340,
+   "height": 160,
+   "text": "Akt koniec XI 2026\n401 072 zł przy akcie\nbez umowy przedwstępnej\n\n→ [[dzs-transakcja]]"
+  },
+  {
+   "id": "46331ee73fa78298",
+   "type": "text",
+   "x": -1320,
+   "y": -1956,
+   "width": 340,
+   "height": 160,
+   "text": "30 627 zł odroczone\npo wykreśleniu hipoteki eFaktor\nnie wcześniej niż po 1.09.2027\n\n→ [[dzs-transakcja]]"
+  },
+  {
+   "id": "b0f071475930217d",
+   "type": "text",
+   "x": -1320,
+   "y": -1756,
+   "width": 340,
+   "height": 134,
+   "text": "Z57: służebności „do wszystkich głównych dróg dojazdowych”\nnasz postulat: cała trasa 725/41, 726/1, min. 5 m, z mediami\n\n→ [[dzs-transakcja]]"
+  },
+  {
+   "id": "a17c1fb1f235fa62",
+   "type": "text",
+   "x": -1320,
+   "y": -1582,
+   "width": 340,
+   "height": 134,
+   "text": "Trójkąt SE 2834/11 (wg naszej geometrii ok. 2,2 m², do potwierdzenia mapą)\n1 zł albo służebność\n\n→ [[dzs-dzialka-2834-11]]"
+  },
+  {
+   "id": "a619ff260b356d02",
+   "type": "text",
+   "x": -1320,
+   "y": -1408,
+   "width": 340,
+   "height": 160,
+   "text": "Klauzule: data sieci, kary,\nwykonanie zastępcze,\ndepozyt notarialny\n\n→ [[dzs-checklista-przed-zakupem]]"
+  },
+  {
+   "id": "bf5180216e92709f",
+   "type": "text",
+   "x": -1320,
+   "y": -1208,
+   "width": 340,
+   "height": 160,
+   "text": "PCC 0 zł\ntaksa ≤1 535,53 zł brutto\nKW ok. 600–1000 zł\n\n→ [[dzs-koszty-zakupu-i-podatki]]"
+  },
+  {
+   "id": "3fcdb73d36d54f2c",
+   "type": "text",
+   "x": -820,
+   "y": -387,
+   "width": 300,
+   "height": 108,
+   "text": "## Formalności i harmonogram\n\n→ [[dzs-harmonogram]]",
+   "color": "5"
+  },
+  {
+   "id": "8671b0a94e6be5ad",
+   "type": "text",
+   "x": -1320,
+   "y": -848,
+   "width": 340,
+   "height": 160,
+   "text": "Wypis/wyrys MPZP\nwypis 30 zł (do 5 str.) / 50 zł\nwyrys 20 zł za A4, maks. 200 zł, do 1 mies.\nUG Siepraw, pok. 15\n\n→ [[dzs-urzad-gminy-siepraw]]"
+  },
+  {
+   "id": "2b5f8290303277c4",
+   "type": "text",
+   "x": -1320,
+   "y": -648,
+   "width": 340,
+   "height": 110,
+   "text": "IN-1 albo IR-1 (wg użytku w EGiB)\nw 14 dni od aktu\n\n→ [[dzs-urzad-gminy-siepraw]]"
+  },
+  {
+   "id": "d05eb8d57f5a70e4",
+   "type": "text",
+   "x": -1320,
+   "y": -500,
+   "width": 340,
+   "height": 160,
+   "text": "Zgłoszenie z projektem\n0 zł, 21 dni na sprzeciw\nStarostwo Myślenice\n\n→ [[dzs-starostwo-myslenice]]"
+  },
+  {
+   "id": "2e2f6a82201cd5d0",
+   "type": "text",
+   "x": -1320,
+   "y": -300,
+   "width": 340,
+   "height": 134,
+   "text": "TAURON: wniosek o warunki możliwy przed aktem\nprzebudowa przyłącza przez TAURON min. 12 mies. od umowy\nczas dla linii sieci do ustalenia z TAURON\n\n→ [[dzs-dostawcy-mediow]]"
+  },
+  {
+   "id": "5a35dc44e49affa7",
+   "type": "text",
+   "x": -1320,
+   "y": -126,
+   "width": 340,
+   "height": 134,
+   "text": "Zakończenie: PINB\n14 dni na sprzeciw\n\n→ [[dzs-procedura-budowy]]"
+  },
+  {
+   "id": "a4215d5b4e34724c",
+   "type": "text",
+   "x": -1320,
+   "y": 48,
+   "width": 340,
+   "height": 134,
+   "text": "Renta planistyczna 20%\ndo 31.07.2030\n\n→ [[dzs-koszty-zakupu-i-podatki]]"
+  },
+  {
+   "id": "3265150a54f845ab",
+   "type": "text",
+   "x": -820,
+   "y": 804,
+   "width": 300,
+   "height": 134,
+   "text": "## Ryzyka\n21 pozycji\n\n→ [[dzs-ryzyka]]",
+   "color": "1"
+  },
+  {
+   "id": "e12c92c3f93fd905",
+   "type": "text",
+   "x": -1320,
+   "y": 382,
+   "width": 340,
+   "height": 134,
+   "text": "Dojazd: pasy prywatne (grupa 15)\nbez symbolu drogi w MPZP\n\n→ [[dzs-ryzyka]]"
+  },
+  {
+   "id": "2e23be155baa52a0",
+   "type": "text",
+   "x": -1320,
+   "y": 556,
+   "width": 340,
+   "height": 134,
+   "text": "Sieci Z57 nie na czas\nkapitał spółki 250 000 zł\n\n→ [[dzs-ryzyka]]"
+  },
+  {
+   "id": "2e8ef98ae6121c93",
+   "type": "text",
+   "x": -1320,
+   "y": 730,
+   "width": 340,
+   "height": 134,
+   "text": "Hipoteka eFaktor\nnajpewniej na KW 2834/11 (sprawdzić w EKW)\nprzejdzie na kupującego, jeśli nie zostanie wykreślona przed aktem\n\n→ [[dzs-ryzyka]]"
+  },
+  {
+   "id": "77c7270a6a6a627b",
+   "type": "text",
+   "x": -1320,
+   "y": 904,
+   "width": 340,
+   "height": 108,
+   "text": "Okno WT do ok. 20.03.2028\n\n→ [[dzs-ryzyka]]"
+  },
+  {
+   "id": "7cc6c8b7b9153fbe",
+   "type": "text",
+   "x": -1320,
+   "y": 1052,
+   "width": 340,
+   "height": 134,
+   "text": "Linia nN i szambo\nkolizja z domem/garażem\n\n→ [[dzs-ryzyka]]"
+  },
+  {
+   "id": "9e0e0b91047449bd",
+   "type": "text",
+   "x": -1320,
+   "y": 1226,
+   "width": 340,
+   "height": 134,
+   "text": "Warianty S7 przez gminę\n(GDDKiA 03.11.2025)\n\n→ [[dzs-dokumenty-i-linki]]"
+  },
+  {
+   "id": "353f6bd012e3598d",
+   "type": "text",
+   "x": -820,
+   "y": 1891,
+   "width": 300,
+   "height": 134,
+   "text": "## Pytania otwarte\n\n→ [[dzs-checklista-przed-zakupem]]",
+   "color": "3"
+  },
+  {
+   "id": "4824e11f0584bd71",
+   "type": "text",
+   "x": -1320,
+   "y": 1560,
+   "width": 340,
+   "height": 82,
+   "text": "Gdzie pas 725/41 łączy się\nz drogą publiczną? Kto właściciel?"
+  },
+  {
+   "id": "eaf8bf0248f2334f",
+   "type": "text",
+   "x": -1320,
+   "y": 1682,
+   "width": 340,
+   "height": 82,
+   "text": "Linia nN: kabel czy napowietrzna?\njaki pas ochronny?"
+  },
+  {
+   "id": "4813dfda45c3ace8",
+   "type": "text",
+   "x": -1320,
+   "y": 1804,
+   "width": 340,
+   "height": 82,
+   "text": "Termin sieci i likwidacji szamba?\nkto właściciel sieci?"
+  },
+  {
+   "id": "19e7061bffbb4ef3",
+   "type": "text",
+   "x": -1320,
+   "y": 1926,
+   "width": 340,
+   "height": 82,
+   "text": "Kwota hipoteki eFaktor?\nzgoda na odłączenie 2834/11?"
+  },
+  {
+   "id": "e5e5eeedb444a9fd",
+   "type": "text",
+   "x": -1320,
+   "y": 2048,
+   "width": 340,
+   "height": 134,
+   "text": "Potwierdzić 3.22MN i brak\nlinii zabudowy wypisem\n\n→ [[dzs-urzad-gminy-siepraw]]"
+  },
+  {
+   "id": "64f55ae6bdbdf695",
+   "type": "text",
+   "x": -1320,
+   "y": 2222,
+   "width": 340,
+   "height": 134,
+   "text": "Czy opinia z 2022 r.\nwystarczy do projektu?\n\n→ [[dzs-opinia-geotechniczna]]"
+  }
+ ],
+ "edges": [
+  {
+   "id": "1471e9c672bcca06",
+   "fromNode": "63a9f0ea7bb98050",
+   "fromSide": "right",
+   "toNode": "8b8cb0e13f95f75f",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "4"
+  },
+  {
+   "id": "b8c0c41a62dd6f73",
+   "fromNode": "8b8cb0e13f95f75f",
+   "fromSide": "right",
+   "toNode": "87de66479aea0306",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "4"
+  },
+  {
+   "id": "0ed42e9c544a532a",
+   "fromNode": "8b8cb0e13f95f75f",
+   "fromSide": "right",
+   "toNode": "83c2d09a5dd1d1c5",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "4"
+  },
+  {
+   "id": "6720a8d86cf8c004",
+   "fromNode": "8b8cb0e13f95f75f",
+   "fromSide": "right",
+   "toNode": "41012ddde9234032",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "4"
+  },
+  {
+   "id": "bcd943603fb7782b",
+   "fromNode": "8b8cb0e13f95f75f",
+   "fromSide": "right",
+   "toNode": "4d536c20da21fcb6",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "4"
+  },
+  {
+   "id": "29e704a936b76da0",
+   "fromNode": "63a9f0ea7bb98050",
+   "fromSide": "right",
+   "toNode": "c224c2549d83f491",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "11ebb590d9171649",
+   "fromNode": "c224c2549d83f491",
+   "fromSide": "right",
+   "toNode": "a2b9dcfaddf5e759",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "548f62df60b770fb",
+   "fromNode": "c224c2549d83f491",
+   "fromSide": "right",
+   "toNode": "99585ce2b2b2f3e3",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "745ec6ede04b3ad9",
+   "fromNode": "c224c2549d83f491",
+   "fromSide": "right",
+   "toNode": "c4bcc623d416896e",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "e23f89dfde94048c",
+   "fromNode": "c224c2549d83f491",
+   "fromSide": "right",
+   "toNode": "d8495969b83b6553",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "f130e81d2c97d868",
+   "fromNode": "c224c2549d83f491",
+   "fromSide": "right",
+   "toNode": "1f9faa64e9fef45a",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "3e7060f2b50ff9b4",
+   "fromNode": "c224c2549d83f491",
+   "fromSide": "right",
+   "toNode": "14fe64e322322ede",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "fdcd3fe472ab7ac7",
+   "fromNode": "63a9f0ea7bb98050",
+   "fromSide": "right",
+   "toNode": "dd988cfd769c9f7f",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "a6e3387095585cdd",
+   "fromNode": "dd988cfd769c9f7f",
+   "fromSide": "right",
+   "toNode": "dd313f5fec34ed87",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "e37b1bfd42e062d6",
+   "fromNode": "dd988cfd769c9f7f",
+   "fromSide": "right",
+   "toNode": "56281e7cc7acb582",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "78c00bb1655d7dea",
+   "fromNode": "dd988cfd769c9f7f",
+   "fromSide": "right",
+   "toNode": "1740cb4110a7a315",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "b451bbb8a81b5083",
+   "fromNode": "dd988cfd769c9f7f",
+   "fromSide": "right",
+   "toNode": "39b47e0c088895a3",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "e55fae08aa8af666",
+   "fromNode": "dd988cfd769c9f7f",
+   "fromSide": "right",
+   "toNode": "177939dce40c9687",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "824d09bbeefa83f6",
+   "fromNode": "dd988cfd769c9f7f",
+   "fromSide": "right",
+   "toNode": "3b70f4115b42e90c",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "192e260de6e1cc9d",
+   "fromNode": "dd988cfd769c9f7f",
+   "fromSide": "right",
+   "toNode": "79682379542974c8",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "be0164fbb7a8c478",
+   "fromNode": "63a9f0ea7bb98050",
+   "fromSide": "right",
+   "toNode": "09b98ab4ed4f49f0",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "65dece0d1a3ff794",
+   "fromNode": "09b98ab4ed4f49f0",
+   "fromSide": "right",
+   "toNode": "a167611ee8893c60",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "caf3ccf98fe44dde",
+   "fromNode": "09b98ab4ed4f49f0",
+   "fromSide": "right",
+   "toNode": "4402c7e3e34171de",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "317c292d09b280d9",
+   "fromNode": "09b98ab4ed4f49f0",
+   "fromSide": "right",
+   "toNode": "7c4dce74ca30a305",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "15a5f1eb006146e1",
+   "fromNode": "09b98ab4ed4f49f0",
+   "fromSide": "right",
+   "toNode": "217c670780ae1d0e",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "72abbdbcc4bcb0fc",
+   "fromNode": "09b98ab4ed4f49f0",
+   "fromSide": "right",
+   "toNode": "53442b748dab1177",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "4d83abd5044277a6",
+   "fromNode": "63a9f0ea7bb98050",
+   "fromSide": "right",
+   "toNode": "62933a2951ef01f4",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "0554efb665bafe81",
+   "fromNode": "62933a2951ef01f4",
+   "fromSide": "right",
+   "toNode": "12c5351be5c582f5",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "4c7dfd91e7ace672",
+   "fromNode": "62933a2951ef01f4",
+   "fromSide": "right",
+   "toNode": "596ff2609d8723c3",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "5ca0f75bb352e9e0",
+   "fromNode": "62933a2951ef01f4",
+   "fromSide": "right",
+   "toNode": "9fd942bc7925e383",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "ed88b2eaf09dad16",
+   "fromNode": "62933a2951ef01f4",
+   "fromSide": "right",
+   "toNode": "b306474490846569",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "0a5f0d71fc910067",
+   "fromNode": "62933a2951ef01f4",
+   "fromSide": "right",
+   "toNode": "b08dc2ff6ef81091",
+   "toSide": "left",
+   "toEnd": "none",
+   "color": "2"
+  },
+  {
+   "id": "63199c0d39202e30",
+   "fromNode": "63a9f0ea7bb98050",
+   "fromSide": "left",
+   "toNode": "4738019ef434f240",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "6"
+  },
+  {
+   "id": "4b349d2949a187a8",
+   "fromNode": "4738019ef434f240",
+   "fromSide": "left",
+   "toNode": "47871ab095af56be",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "6"
+  },
+  {
+   "id": "f4e22faa91600662",
+   "fromNode": "4738019ef434f240",
+   "fromSide": "left",
+   "toNode": "dab23f970c086d2e",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "6"
+  },
+  {
+   "id": "229ab409e2854ec9",
+   "fromNode": "4738019ef434f240",
+   "fromSide": "left",
+   "toNode": "46331ee73fa78298",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "6"
+  },
+  {
+   "id": "df0973c74e0a9e13",
+   "fromNode": "4738019ef434f240",
+   "fromSide": "left",
+   "toNode": "b0f071475930217d",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "6"
+  },
+  {
+   "id": "1b0421436c879216",
+   "fromNode": "4738019ef434f240",
+   "fromSide": "left",
+   "toNode": "a17c1fb1f235fa62",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "6"
+  },
+  {
+   "id": "e955c66a80b58c78",
+   "fromNode": "4738019ef434f240",
+   "fromSide": "left",
+   "toNode": "a619ff260b356d02",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "6"
+  },
+  {
+   "id": "7ef9137ee5dcc33d",
+   "fromNode": "4738019ef434f240",
+   "fromSide": "left",
+   "toNode": "bf5180216e92709f",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "6"
+  },
+  {
+   "id": "596bd0c06aaf51c3",
+   "fromNode": "63a9f0ea7bb98050",
+   "fromSide": "left",
+   "toNode": "3fcdb73d36d54f2c",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "5556d64bebb3fab4",
+   "fromNode": "3fcdb73d36d54f2c",
+   "fromSide": "left",
+   "toNode": "8671b0a94e6be5ad",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "dbb04c98388fe021",
+   "fromNode": "3fcdb73d36d54f2c",
+   "fromSide": "left",
+   "toNode": "2b5f8290303277c4",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "5465f265934a75ee",
+   "fromNode": "3fcdb73d36d54f2c",
+   "fromSide": "left",
+   "toNode": "d05eb8d57f5a70e4",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "c0e566bb831899be",
+   "fromNode": "3fcdb73d36d54f2c",
+   "fromSide": "left",
+   "toNode": "2e2f6a82201cd5d0",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "a7b7a20578f72b8d",
+   "fromNode": "3fcdb73d36d54f2c",
+   "fromSide": "left",
+   "toNode": "5a35dc44e49affa7",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "1b545658b9af37f5",
+   "fromNode": "3fcdb73d36d54f2c",
+   "fromSide": "left",
+   "toNode": "a4215d5b4e34724c",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "5"
+  },
+  {
+   "id": "1f47a5db3b982a1f",
+   "fromNode": "63a9f0ea7bb98050",
+   "fromSide": "left",
+   "toNode": "3265150a54f845ab",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "1"
+  },
+  {
+   "id": "e0ba8d62353d88ec",
+   "fromNode": "3265150a54f845ab",
+   "fromSide": "left",
+   "toNode": "e12c92c3f93fd905",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "1"
+  },
+  {
+   "id": "27f347eae250b523",
+   "fromNode": "3265150a54f845ab",
+   "fromSide": "left",
+   "toNode": "2e23be155baa52a0",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "1"
+  },
+  {
+   "id": "f817bdd5ae0af036",
+   "fromNode": "3265150a54f845ab",
+   "fromSide": "left",
+   "toNode": "2e8ef98ae6121c93",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "1"
+  },
+  {
+   "id": "f824725b07b4832f",
+   "fromNode": "3265150a54f845ab",
+   "fromSide": "left",
+   "toNode": "77c7270a6a6a627b",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "1"
+  },
+  {
+   "id": "eccb6b38d03dcf48",
+   "fromNode": "3265150a54f845ab",
+   "fromSide": "left",
+   "toNode": "7cc6c8b7b9153fbe",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "1"
+  },
+  {
+   "id": "13125334e991a484",
+   "fromNode": "3265150a54f845ab",
+   "fromSide": "left",
+   "toNode": "9e0e0b91047449bd",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "1"
+  },
+  {
+   "id": "daf3e1b3e1833240",
+   "fromNode": "63a9f0ea7bb98050",
+   "fromSide": "left",
+   "toNode": "353f6bd012e3598d",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "809e5bcd170ff252",
+   "fromNode": "353f6bd012e3598d",
+   "fromSide": "left",
+   "toNode": "4824e11f0584bd71",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "59f369f300a872ff",
+   "fromNode": "353f6bd012e3598d",
+   "fromSide": "left",
+   "toNode": "eaf8bf0248f2334f",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "01e1f8ade977f98b",
+   "fromNode": "353f6bd012e3598d",
+   "fromSide": "left",
+   "toNode": "4813dfda45c3ace8",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "bc6faf1fd9e55fa2",
+   "fromNode": "353f6bd012e3598d",
+   "fromSide": "left",
+   "toNode": "19e7061bffbb4ef3",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "849da068a96f02ed",
+   "fromNode": "353f6bd012e3598d",
+   "fromSide": "left",
+   "toNode": "e5e5eeedb444a9fd",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "f1ec4caa5662962b",
+   "fromNode": "353f6bd012e3598d",
+   "fromSide": "left",
+   "toNode": "64f55ae6bdbdf695",
+   "toSide": "right",
+   "toEnd": "none",
+   "color": "3"
+  },
+  {
+   "id": "26219eb57f4f5638",
+   "fromNode": "12c5351be5c582f5",
+   "toNode": "7cc6c8b7b9153fbe",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "strefa ochronna"
+  },
+  {
+   "id": "d6d9720fe951d073",
+   "fromNode": "7cc6c8b7b9153fbe",
+   "toNode": "a619ff260b356d02",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "klauzula w akcie"
+  },
+  {
+   "id": "2e70a7e8300d3bc3",
+   "fromNode": "12c5351be5c582f5",
+   "toNode": "2e2f6a82201cd5d0",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "przełożenie"
+  },
+  {
+   "id": "180926065a8e1739",
+   "fromNode": "9fd942bc7925e383",
+   "toNode": "1740cb4110a7a315",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "kolizja z podjazdem"
+  },
+  {
+   "id": "ca5aa63fc44796e1",
+   "fromNode": "217c670780ae1d0e",
+   "toNode": "b306474490846569",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "tylko kanalizacja"
+  },
+  {
+   "id": "f6f81c6fcfe49cec",
+   "fromNode": "b306474490846569",
+   "toNode": "2e23be155baa52a0",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "termin?"
+  },
+  {
+   "id": "dd69bad271e17799",
+   "fromNode": "2e23be155baa52a0",
+   "toNode": "a619ff260b356d02",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "kary, wykonanie zastępcze"
+  },
+  {
+   "id": "78f1fe45efc899e8",
+   "fromNode": "2e8ef98ae6121c93",
+   "toNode": "46331ee73fa78298",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "zabezpieczenie"
+  },
+  {
+   "id": "c7c11c3aaaec1f43",
+   "fromNode": "e12c92c3f93fd905",
+   "toNode": "b0f071475930217d",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "cała trasa"
+  },
+  {
+   "id": "b2ffec9d783517f5",
+   "fromNode": "e12c92c3f93fd905",
+   "toNode": "4824e11f0584bd71",
+   "toEnd": "arrow",
+   "color": "1"
+  },
+  {
+   "id": "3be8947dfc2297b4",
+   "fromNode": "1f9faa64e9fef45a",
+   "toNode": "77c7270a6a6a627b",
+   "toEnd": "arrow",
+   "color": "1"
+  },
+  {
+   "id": "c8743be99fcf690c",
+   "fromNode": "77c7270a6a6a627b",
+   "toNode": "d05eb8d57f5a70e4",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "przed 20.03.2028"
+  },
+  {
+   "id": "6627cbd59ab09eb0",
+   "fromNode": "a167611ee8893c60",
+   "toNode": "56281e7cc7acb582",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "ogród na S"
+  },
+  {
+   "id": "c801b661e0ed32e1",
+   "fromNode": "d8495969b83b6553",
+   "toNode": "1740cb4110a7a315",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "garaż w granicy?"
+  },
+  {
+   "id": "f6701bf3b34fc703",
+   "fromNode": "41012ddde9234032",
+   "toNode": "a17c1fb1f235fa62",
+   "toEnd": "arrow",
+   "color": "1"
+  },
+  {
+   "id": "1d9c567a2f6aed8c",
+   "fromNode": "41012ddde9234032",
+   "toNode": "2e8ef98ae6121c93",
+   "toEnd": "arrow",
+   "color": "1"
+  },
+  {
+   "id": "31242080b078dfdc",
+   "fromNode": "9e0e0b91047449bd",
+   "toNode": "353f6bd012e3598d",
+   "toEnd": "arrow",
+   "color": "1"
+  },
+  {
+   "id": "cf94cfc2be43d965",
+   "fromNode": "c4bcc623d416896e",
+   "toNode": "3b70f4115b42e90c",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "limity od pow. działki"
+  },
+  {
+   "id": "140fe7d2410f9def",
+   "fromNode": "e5e5eeedb444a9fd",
+   "toNode": "8671b0a94e6be5ad",
+   "toEnd": "arrow",
+   "color": "1"
+  },
+  {
+   "id": "c6cbfa1f06d6b6ce",
+   "fromNode": "a2b9dcfaddf5e759",
+   "toNode": "79682379542974c8",
+   "toEnd": "arrow",
+   "color": "1",
+   "label": "interpretacja"
+  }
+ ]
+}
